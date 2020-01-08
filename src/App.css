@@ -272,17 +272,18 @@
 }
 
 .final_info {
-  width: 130%;
+  width: 100%;
   height: auto;
 }
 
 .final {
   /* margin: 10px 35px -17px 34px !important; */
-  font-size: 3vh;
+  font-size: 6vh !important;
+  text-align: center !important;
 }
 .final_second {
   /* margin: 0px 35px -17px 34px; */
-  font-size: 3vh;
+  font-size: 3.5vh !important;
 }
 
 /* @media (min-width:1000px) {
@@ -343,6 +344,10 @@
   background-size: cover;
   background-position: 0%;
 }
+
+.final{
+  margin-top: -40vh;
+}
   .logo_arts{
     width: 95%;
   }
@@ -393,7 +398,7 @@
     width:100%;
   }
   .start_screen__text{
-    font-size: 2.3vh;
+    font-size: 2.7vh;
   }
   .start_screen__button{
     font-size: 3vh;
@@ -401,6 +406,7 @@
   .start_screen__container{
     height: auto;
     display: flex;
+    background:rgb(2,4,33,0.8);
     width: auto;
 
   }
