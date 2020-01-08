@@ -279,11 +279,13 @@
 .final {
   /* margin: 10px 35px -17px 34px !important; */
   font-size: 6vh !important;
+  text-indent: 0 !important;
   text-align: center !important;
 }
 .final_second {
   /* margin: 0px 35px -17px 34px; */
   font-size: 3.5vh !important;
+  margin-top:5vh;
 }
 
 /* @media (min-width:1000px) {

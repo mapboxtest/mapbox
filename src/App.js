@@ -50,7 +50,7 @@ function App() {
                   <div className="control_indicator" />
                 </label>
                 <label className="control control-radio answer_button">
-                  А что, так можно было?
+                  Нет
                   <input
                     type="radio"
                     name="radio"
