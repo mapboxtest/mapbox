@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f70664d97b6741cc835d601e21f5553a",
+    "revision": "161c6ee10a7eab85c2b83650e61a82e5",
     "url": "/mapbox/index.html"
   },
   {
-    "revision": "b58bde0219fbc3562048",
-    "url": "/mapbox/static/css/main.a8e069a4.chunk.css"
+    "revision": "7d48bbf384033edfedd9",
+    "url": "/mapbox/static/css/main.58a64649.chunk.css"
   },
   {
     "revision": "b590a03fbbee882760c8",
     "url": "/mapbox/static/js/2.f8f40acd.chunk.js"
   },
   {
-    "revision": "b58bde0219fbc3562048",
+    "revision": "7d48bbf384033edfedd9",
     "url": "/mapbox/static/js/main.30961162.chunk.js"
   },
   {
