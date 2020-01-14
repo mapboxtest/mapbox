@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "07ec86ac7c5affff22b746d7aca31eea",
+    "revision": "05426d742771dfda96fd062060865d24",
     "url": "/mapbox/index.html"
   },
   {
-    "revision": "e598727f83845754cbf1",
+    "revision": "3ad713852bf44f15ffbc",
     "url": "/mapbox/static/css/main.001f7cae.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mapbox/static/js/2.f8f40acd.chunk.js"
   },
   {
-    "revision": "e598727f83845754cbf1",
-    "url": "/mapbox/static/js/main.983ca137.chunk.js"
+    "revision": "3ad713852bf44f15ffbc",
+    "url": "/mapbox/static/js/main.83e851ca.chunk.js"
   },
   {
     "revision": "dce53e0728e5be5c17ae",
